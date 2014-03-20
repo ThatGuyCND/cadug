@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CADUG: Content type: Session feature.
+ */
+
+include_once 'cadug_content_type_session.features.inc';

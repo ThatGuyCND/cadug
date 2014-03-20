@@ -1,0 +1,13 @@
+name = CADUG taxonomies
+description = Holds all taxonomies (but not terms) for the CADUG website
+core = 7.x
+package = Features
+version = 7.x-2.0
+project = cadug_taxonomies
+dependencies[] = features
+dependencies[] = taxonomy
+features[features_api][] = api:2
+features[taxonomy][] = level
+features[taxonomy][] = tags
+features[taxonomy][] = topic
+project path = sites/all/modules/cadug/features

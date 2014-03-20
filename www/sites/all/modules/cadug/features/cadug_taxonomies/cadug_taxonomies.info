@@ -1,7 +1,7 @@
 name = CADUG taxonomies
 description = Holds all taxonomies (but not terms) for the CADUG website
 core = 7.x
-package = Features
+package = CADUG
 version = 7.x-2.0
 project = cadug_taxonomies
 dependencies[] = features

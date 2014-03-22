@@ -1,0 +1,36 @@
+name = CADUG
+description = CADUG Profile
+core = 7.x
+
+; Drupal Core
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = taxonomy
+
+; Contrib Modules
+dependencies[] = admin_menu
+dependencies[] = ctools
+dependencies[] = pathauto
+dependencies[] = role_export
+
+; CADUG Features
+dependencies[] = cadug_content_type_session
+dependencies[] = cadug_field_bases 
+dependencies[] = cadug_roles_and_permissions
+dependencies[] = cadug_taxonomy_level
+dependencies[] = cadug_taxonomy_topic

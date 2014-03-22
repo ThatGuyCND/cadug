@@ -40,4 +40,4 @@ features_exclude[field_base][field_session_needs] = field_session_needs
 features_exclude[field_base][field_level] = field_level
 features_exclude[field_base][field_topic] = field_topic
 features_exclude[field_base][field_duration] = field_duration
-project path = sites/all/modules/cadug/features
+project path = profiles/cadug/modules/cadug/features

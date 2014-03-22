@@ -13,4 +13,4 @@ features[taxonomy][] = level
 features[uuid_term][] = 0be2064a-f787-4cb6-b398-66eac5d6190c
 features[uuid_term][] = 6163a1e3-ca35-4147-9db0-69305f5dda5b
 features[uuid_term][] = c1fc0c47-6d6f-40d4-b3de-ce00833196c6
-project path = sites/all/modules/cadug/features
+project path = profiles/cadug/modules/cadug/features

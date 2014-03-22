@@ -93,4 +93,4 @@ features[user_permission][] = view revisions
 features[user_permission][] = view the administration theme
 features[user_role][] = CADUG member
 features_exclude[dependencies][role_export] = role_export
-project path = sites/all/modules/cadug/features
+project path = profiles/cadug/modules/cadug/features

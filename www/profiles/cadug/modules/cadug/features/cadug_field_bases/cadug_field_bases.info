@@ -22,4 +22,4 @@ features[field_base][] = field_topic
 features_exclude[taxonomy][level] = level
 features_exclude[taxonomy][tags] = tags
 features_exclude[taxonomy][topic] = topic
-project path = sites/all/modules/cadug/features
+project path = profiles/cadug/modules/cadug/features

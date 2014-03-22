@@ -368,13 +368,6 @@ function cadug_roles_and_permissions_user_default_permissions() {
     'module' => 'path',
   );
 
-  // Exported permission: 'create webform content'.
-  $permissions['create webform content'] = array(
-    'name' => 'create webform content',
-    'roles' => array(),
-    'module' => 'node',
-  );
-
   // Exported permission: 'customize shortcut links'.
   $permissions['customize shortcut links'] = array(
     'name' => 'customize shortcut links',
@@ -391,23 +384,9 @@ function cadug_roles_and_permissions_user_default_permissions() {
     'module' => 'node',
   );
 
-  // Exported permission: 'delete any webform content'.
-  $permissions['delete any webform content'] = array(
-    'name' => 'delete any webform content',
-    'roles' => array(),
-    'module' => 'node',
-  );
-
   // Exported permission: 'delete own session_proposal content'.
   $permissions['delete own session_proposal content'] = array(
     'name' => 'delete own session_proposal content',
-    'roles' => array(),
-    'module' => 'node',
-  );
-
-  // Exported permission: 'delete own webform content'.
-  $permissions['delete own webform content'] = array(
-    'name' => 'delete own webform content',
     'roles' => array(),
     'module' => 'node',
   );
@@ -451,13 +430,6 @@ function cadug_roles_and_permissions_user_default_permissions() {
     'module' => 'node',
   );
 
-  // Exported permission: 'edit any webform content'.
-  $permissions['edit any webform content'] = array(
-    'name' => 'edit any webform content',
-    'roles' => array(),
-    'module' => 'node',
-  );
-
   // Exported permission: 'edit own comments'.
   $permissions['edit own comments'] = array(
     'name' => 'edit own comments',
@@ -474,13 +446,6 @@ function cadug_roles_and_permissions_user_default_permissions() {
     'roles' => array(
       'CADUG member' => 'CADUG member',
     ),
-    'module' => 'node',
-  );
-
-  // Exported permission: 'edit own webform content'.
-  $permissions['edit own webform content'] = array(
-    'name' => 'edit own webform content',
-    'roles' => array(),
     'module' => 'node',
   );
 
